@@ -56,8 +56,6 @@ body{
 	color:#fff;
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
-    background: #000 ;
-    border: 1px solid black;
 }
 
 a{
@@ -1183,6 +1181,3 @@ background: #00aaff;
 /* 10 - Preloader End
 ---------------------------------------------------------------------- */
 
-
-#page-top {
-}
